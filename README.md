@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Android Studio**
-- 
+
 - 📫 How to reach me **marutlashkari01@gmail.com**
 
 - 😄 Pronouns: Mârût 
