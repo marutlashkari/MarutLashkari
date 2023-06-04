@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marut Lashkari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://marutlashkari.io)
+
 - 📫 How to reach me **marutlashkari01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
