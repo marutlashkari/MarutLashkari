@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marut Lashkari</h1>
 <h2 align="center"> I Am Currently Student from Darshan University Rajkot - Gujrat </h2>
 
-- 📫 How to reach me **marutlashkari01@gmail.com**
+- 📫 How to reach me :- **marutlashkari01@gmail.com**
 
-- ⚡ Fun fact **This is not a joke**
+- ⚡ Fun fact :- **This is not a joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
