@@ -3,8 +3,6 @@
 
 - 📫 How to reach me :- **marutlashkari01@gmail.com**
 
-- ⚡ Fun fact :- **This is not a joke**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marut lashkari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marut lashkari" height="30" width="40" /></a>
